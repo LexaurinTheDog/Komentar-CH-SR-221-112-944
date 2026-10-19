@@ -1,0 +1,125 @@
+{
+  "complete": true,
+  "units_reviewed": 14,
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "R1",
+      "units": [
+        "a1"
+      ],
+      "finding": "Gemischte Nutzung war durch die Formulierung beruflich eingesetztes Gerät nicht trennscharf genug.",
+      "correction": "Hauptsächliche berufliche Nutzung von gelegentlicher beruflicher Mitbenutzung unterschieden; Reichweite des BGE-Nachweises eingegrenzt.",
+      "resolved": true
+    },
+    {
+      "id": "R2",
+      "units": [
+        "a3"
+      ],
+      "finding": "Amtliche HTML-Fussnote 5 enthält abweichendes Erlassjahr des PrSG.",
+      "correction": "AS 2010 2573 (Titel: 12. Juni 2009; Art. 20 Abs. 2 Ziff. 1 auf S. 2580) gesichert, gelesen und visuell geprüft. Rohzitat erhalten und Quellenabweichung ausdrücklich erläutert.",
+      "resolved": true
+    },
+    {
+      "id": "R3",
+      "units": [
+        "a4"
+      ],
+      "finding": "Objektiver Sicherheitsmassstab und Unterschied der Beweismasse konnten deutlicher sein.",
+      "correction": "Durchschnittskonsument, Abgrenzung überwiegende Wahrscheinlichkeit/Glaubhaftmachung und Gegenbeweis anhand Volltext 4C.298/2006 ergänzt.",
+      "resolved": true
+    },
+    {
+      "id": "R4",
+      "units": [
+        "a5"
+      ],
+      "finding": "Vermutung zum Fehlerzeitpunkt sowie kumulative Voraussetzungen des Bst. c nicht ausdrücklich genug.",
+      "correction": "Entlastungsbeweis für nachträglichen Fehler, gesetzliche Umständeformel und kumulative nichtwirtschaftliche/nichtberufliche Tätigkeit präzisiert.",
+      "resolved": true
+    },
+    {
+      "id": "R5",
+      "units": [
+        "a10"
+      ],
+      "finding": "Fristsicherung bei noch nicht vollständig bezifferbarem Schaden bedurfte konkreter aktueller Stütze.",
+      "correction": "Amtlichen Volltext 4A_648/2024 vom 30.01.2026 geprüft, E. 5.3.5 ergänzt; unbezifferte Klage und Verjährungsunterbrechung sowie Gerichtszugangsfragen unterschieden.",
+      "resolved": true
+    },
+    {
+      "id": "R6",
+      "units": [
+        "a1",
+        "a4",
+        "a5",
+        "a10"
+      ],
+      "finding": "Erstfassung verwendete nur publizierten Urteilsauszug und dokumentierte zeitliche Tragfähigkeit knapp.",
+      "correction": "Vollständiges Urteil 4C.298/2006 gelesen; Aussagen, Parteistandpunkte, Rückweisung und historische Prozessregeln in Fallkarte getrennt. Neue Fallkarte 4A_648/2024 mit begrenzter Zuordnung.",
+      "resolved": true
+    },
+    {
+      "id": "R7",
+      "units": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14"
+      ],
+      "finding": "Eigenkontrollstatus und Inventur-Abhängigkeit waren nach der Zweitprüfung zu aktualisieren.",
+      "correction": "Alle 14 Einheiten vollständig gelesen; README, Einleitung, SOURCES und REVIEW aktualisiert, zentrale Produktionsdatei aus Inventurskript-Abhängigkeit entfernt.",
+      "resolved": true
+    }
+  ],
+  "limitations": [
+    "Selektive Rechtsprechungsrecherche; keine vollständige Nachfolgerecherche sämtlicher nationaler Gerichte oder Literatur.",
+    "Keine vollständige eigenständige Verordnungsrecherche zu möglichen Selbstbehaltsanpassungen; Art. 6 und sein Beispiel sind ausdrücklich auf den verifizierten Gesetzesbetrag begrenzt.",
+    "Externe OR- und Prozessnormen nicht flächendeckend separat verifiziert; historisches OR im Urteil 4A_648/2024 nicht als aktuelles Recht übernommen.",
+    "Im Urteil 4A_648/2024 referierte weitere Urteile sind nicht eigenständig geprüfte zusätzliche Autoritäten dieser Ausgabe.",
+    "Erratene historische HTML-Adressen lieferten verworfene Anwendungshüllen; keine Behauptung einer vollständig eigenständig gesicherten historischen Fassungsreihe.",
+    "Interne inhaltliche Zweitprüfung in getrenntem Prozess, keine externe professionelle Freigabe oder Garantie der Fehlerfreiheit."
+  ],
+  "reviewed_ids": [
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "a5",
+    "a6",
+    "a7",
+    "a8",
+    "a9",
+    "a10",
+    "a11",
+    "a12",
+    "a13",
+    "a14"
+  ],
+  "reviewed_at": "2026-10-19T13:08:09.133829+00:00",
+  "review_mode": "independent_second_process_internal_review",
+  "case_law_full_texts_reviewed": [
+    "4C.298/2006, 19.12.2006",
+    "4A_648/2024, 30.01.2026"
+  ],
+  "technical_validation": {
+    "repo": "Komentar-CH-SR-221-112-944",
+    "units": 14,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 21855,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  }
+}
