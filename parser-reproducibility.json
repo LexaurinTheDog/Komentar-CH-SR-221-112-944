@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "before": {
+    "units.jsonl": "5504c24ea7b156daa8abe66e1b09ca00f2ed330be1622c36c4973913cadc87c9",
+    "sources/canonical.md": "8deb5fb47b01b9846d8be08f073c5a1c8662d357ca61ac55129e719af082f5e2"
+  },
+  "after": {
+    "units.jsonl": "5504c24ea7b156daa8abe66e1b09ca00f2ed330be1622c36c4973913cadc87c9",
+    "sources/canonical.md": "8deb5fb47b01b9846d8be08f073c5a1c8662d357ca61ac55129e719af082f5e2"
+  },
+  "command": "python3 -I _parse.py; python3 -I _coverage.py",
+  "note": "Commands executed sequentially; hashes of pre-existing statute extraction unchanged"
+}

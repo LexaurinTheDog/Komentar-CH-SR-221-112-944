@@ -1,0 +1,8 @@
+{
+  "url": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/oc/2010/347/de/pdf-a/fedlex-data-admin-ch-eli-oc-2010-347-de-pdf-a.pdf",
+  "http_status": 200,
+  "accessed_at": "2026-10-19T13:02:13.014822+00:00",
+  "sha256": "6598a38add7cad5a4d0a5fcbac48c98643540fdac51ed6d4df6a5e8166a1e4ee",
+  "path": "sources/review-prsg-as2010.pdf",
+  "validated": "PDF magic; ten-page AS text includes title date and PrHG amendment"
+}

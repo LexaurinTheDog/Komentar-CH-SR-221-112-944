@@ -1,0 +1,11 @@
+
+{ "head": { "link": [], "vars": ["p", "o"] },
+  "results": { "distinct": false, "ordered": true, "bindings": [
+    { "p": { "type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" }	, "o": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#Manifestation" }},
+    { "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isExemplifiedByPrivate" }	, "o": { "type": "uri", "value": "https://intranet.fedlex.admin.ch/casematesbo/filestore/fedlex.data.admin.ch/eli/oc/2010/347/de/pdf-a/fedlex-data-admin-ch-eli-oc-2010-347-de-pdf-a.pdf" }},
+    { "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#numberOfPages" }	, "o": { "type": "literal", "datatype": "http://www.w3.org/2001/XMLSchema#int", "value": "10" }},
+    { "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#publisher" }	, "o": { "type": "uri", "value": "https://fedlex.data.admin.ch/vocabulary/legal-institution/2" }},
+    { "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#rightsHolder" }	, "o": { "type": "uri", "value": "https://fedlex.data.admin.ch/vocabulary/legal-institution/2" }},
+    { "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#isExemplifiedBy" }	, "o": { "type": "uri", "value": "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/oc/2010/347/de/pdf-a/fedlex-data-admin-ch-eli-oc-2010-347-de-pdf-a.pdf" }},
+    { "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#format" }	, "o": { "type": "uri", "value": "http://publications.europa.eu/resource/authority/file-type/PDF" }},
+    { "p": { "type": "uri", "value": "http://data.legilux.public.lu/resource/ontology/jolux#userFormat" }	, "o": { "type": "uri", "value": "https://fedlex.data.admin.ch/vocabulary/user-format/pdf-a" }} ] } }

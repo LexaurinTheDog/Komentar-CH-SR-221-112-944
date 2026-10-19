@@ -1,0 +1,51 @@
+{
+  "checked_at": "2026-10-19T13:03:36.530904+00:00",
+  "method": "Selective second-pass research, not a comprehensive case-law update",
+  "local_sources": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/ch/bger/2006/CH_BGer_004_4C-298-2006_2006-12-19.md",
+      "snapshot": "sources/local-CH_BGer_004_4C-298-2006_2006-12-19.md",
+      "sha256": "f1ed330c6ab499f6ecbc55dd2b60a0835da22ceefa709113546b8401bfd8cdb5"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/ch/bge/2006/CH_BGE_005_BGE-133-III-81_2006-12-19.md",
+      "snapshot": "sources/local-CH_BGE_005_BGE-133-III-81_2006-12-19.md",
+      "sha256": "83079cfca5da137a6fbcf77377622c88d28d6b25dfb92e0dc6a65bed4e001521"
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/ch/bger/2026/CH_BGer_004_4A-648-2024_2026-01-30.md",
+      "snapshot": "sources/local-CH_BGer_004_4A-648-2024_2026-01-30.md",
+      "sha256": "75eec2fb4735d495954ae552715e69af0e4e4eed303c5c06b770c183474d245a"
+    }
+  ],
+  "queries": [
+    {
+      "query": "filename search 4C-298-2006 and BGE-133-III-81 in local CH bger/bge",
+      "result": "Full 2006 judgment located; official full text independently fetched and read"
+    },
+    {
+      "query": "rg -l Produktehaftpflicht|responsabilité du fait des produits in CH bger and bge years 2025 and 2026",
+      "results": [
+        "4A_648/2024, 30.01.2026",
+        "4A_243/2025, 04.08.2025"
+      ],
+      "disposition": "4A_648/2024 full judgment read and officially verified. 4A_243/2025 examined only at contextual passage E. 3; not used as authority and not represented as fully reviewed."
+    },
+    {
+      "query": "Firecrawl scrape JumpCGI?id=4C.298/2006",
+      "result": "Invalid-reference page; rejected. Correct dated hyphenated official URL found in local national corpus."
+    },
+    {
+      "query": "Re-fetch original Fedlex HTML, version inventory and applicability metadata",
+      "result": "Identical statutory response; inventory again has only 19940101, 20070701, 20100701"
+    },
+    {
+      "query": "PrSG AS 2010 2573 metadata, expression, PDF manifestation and PDF",
+      "result": "Date discrepancy in PrHG footnote independently resolved using published AS title and Art. 20"
+    }
+  ],
+  "limits": [
+    "No exhaustive national-corpus search or follow-up history",
+    "Direct guessed historic HTML URLs returned application shells; rejected. The 2006 court quotation of Art. 4 was compared with current wording; no claim to independently retrieved complete historic consolidations."
+  ]
+}

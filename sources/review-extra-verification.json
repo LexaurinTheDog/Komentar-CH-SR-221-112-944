@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://relevancy.bger.ch/cgi-bin/JumpCGI?id=30.01.2026_4A_648/2024",
+    "path": "sources/review-case-2026.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-19T13:01:32.173304+00:00",
+    "sha256": "613b6ee4fc29002a702d94cc06c88fb79361415d1be23cee56507f30515b0d6f",
+    "bytes": 67589,
+    "validated": "Full case text including reasons 1–7 and dispositif"
+  },
+  {
+    "url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+%3Fp+%3Fo+WHERE+%7B+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Foc%2F2010%2F347%2Fde%2Fpdf-a%3E+%3Fp+%3Fo+%7D&format=application%2Fsparql-results%2Bjson",
+    "path": "sources/review-prsg-manifestation.json",
+    "http_status": 200,
+    "accessed_at": "2026-10-19T13:01:32.444278+00:00",
+    "sha256": "ef1ed585cb24681ed7a7c6c02c3e53db560969cb6c73ed9d0fe1405117b035f5",
+    "bytes": 1930,
+    "validated": "SPARQL JSON"
+  }
+]

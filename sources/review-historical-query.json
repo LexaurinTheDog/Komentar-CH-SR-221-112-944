@@ -1,0 +1,6 @@
+{
+  "url": "https://fedlex.data.admin.ch/sparqlendpoint?query=PREFIX+j%3A+%3Chttp%3A%2F%2Fdata.legilux.public.lu%2Fresource%2Fontology%2Fjolux%23%3E+SELECT+%3Fs+%3Fo+WHERE+%7B+VALUES+%3Fs+%7B+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1993%2F3122_3122_3122%2F19940101%2Fde%2Fhtml%3E+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1993%2F3122_3122_3122%2F20070701%2Fde%2Fhtml%3E+%7D+%3Fs+j%3AisExemplifiedBy+%3Fo+%7D&format=application%2Fsparql-results%2Bjson",
+  "accessed_at": "2026-10-19T13:02:44.858007+00:00",
+  "http_status": 200,
+  "sha256": "21732a68993ff5626b817125c6b2b2a5336260401f8ea8f9c50547e15aee7802"
+}

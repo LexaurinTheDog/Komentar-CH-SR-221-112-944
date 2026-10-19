@@ -1,0 +1,19 @@
+[
+  {
+    "official_snapshot": "review-full-case.html",
+    "local_snapshot": "local-CH_BGer_004_4C-298-2006_2006-12-19.md",
+    "official_body_chars": 27836,
+    "local_body_chars": 27704,
+    "compact_equal": true,
+    "official_body_sha256": "078d9d1ed672c780d8c368c370bcd9d3e968752fad06b78781821a93fb61877f"
+  },
+  {
+    "official_snapshot": "review-case-2026.html",
+    "local_snapshot": "local-CH_BGer_004_4A-648-2024_2026-01-30.md",
+    "official_body_chars": 46610,
+    "local_body_chars": 45783,
+    "compact_equal": false,
+    "official_body_sha256": "f65646a80e7a6c5d1bbe9fd9f184a70ceeeb2f974546e4d37f026b0108161345",
+    "difference": "Only punctuation: local A.a has comma after 1999, official text has none; cited reasons and result agree."
+  }
+]

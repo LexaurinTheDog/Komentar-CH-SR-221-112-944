@@ -1,0 +1,86 @@
+{
+  "review-official.html": {
+    "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122/20100701/de/html/fedlex-data-admin-ch-eli-cc-1993-3122_3122_3122-20100701-de-html-7.html",
+    "accessed_at": "2026-10-19T13:00:54.743510+00:00",
+    "path": "sources/review-official.html",
+    "http_status": 200,
+    "final_url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122/20100701/de/html/fedlex-data-admin-ch-eli-cc-1993-3122_3122_3122-20100701-de-html-7.html",
+    "content_type": "text/html",
+    "sha256": "505b8ea4db6e40dbe3c327e13f645470c68c13a0328803c30d46618dbfbfb22d",
+    "bytes": 13428,
+    "validated": "14 statutory article nodes and lawcontent, not application or bot shell",
+    "accepted": true
+  },
+  "review-versions.json": {
+    "url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+DISTINCT+%3Fs+%3Fp+%3Fo+WHERE+%7B+%7B+BIND%28%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1993%2F3122_3122_3122%3E+AS+%3Fs%29+%3Fs+%3Fp+%3Fo+%7D+UNION+%7B+%3Fs+%3Fp+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1993%2F3122_3122_3122%3E+.+BIND%28%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1993%2F3122_3122_3122%3E+AS+%3Fo%29+%7D+%7D&format=application%2Fsparql-results%2Bjson",
+    "accessed_at": "2026-10-19T13:00:54.743890+00:00",
+    "path": "sources/review-versions.json",
+    "http_status": 200,
+    "final_url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+DISTINCT+%3Fs+%3Fp+%3Fo+WHERE+%7B+%7B+BIND%28%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1993%2F3122_3122_3122%3E+AS+%3Fs%29+%3Fs+%3Fp+%3Fo+%7D+UNION+%7B+%3Fs+%3Fp+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1993%2F3122_3122_3122%3E+.+BIND%28%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1993%2F3122_3122_3122%3E+AS+%3Fo%29+%7D+%7D&format=application%2Fsparql-results%2Bjson",
+    "content_type": "application/sparql-results+json",
+    "sha256": "8e00cd45545da231905287bc712dfb84cc7869426db1868b4d9432a378d527f5",
+    "bytes": 6361,
+    "validated": "SPARQL JSON results and bindings",
+    "accepted": true
+  },
+  "review-version-details.json": {
+    "url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+DISTINCT+%3Fs+%3Fp+%3Fo+WHERE+%7B+VALUES+%3Fs+%7B+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1993%2F3122_3122_3122%2F20100701%3E+%7D+%3Fs+%3Fp+%3Fo+%7D&format=application%2Fsparql-results%2Bjson",
+    "accessed_at": "2026-10-19T13:00:54.743981+00:00",
+    "path": "sources/review-version-details.json",
+    "http_status": 200,
+    "final_url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+DISTINCT+%3Fs+%3Fp+%3Fo+WHERE+%7B+VALUES+%3Fs+%7B+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Fcc%2F1993%2F3122_3122_3122%2F20100701%3E+%7D+%3Fs+%3Fp+%3Fo+%7D&format=application%2Fsparql-results%2Bjson",
+    "content_type": "application/sparql-results+json",
+    "sha256": "f5b59a5d1f35ab138e7cb3aa43155050dc46999c958881031a411cfd708fd03c",
+    "bytes": 4426,
+    "validated": "SPARQL JSON results and bindings",
+    "accepted": true
+  },
+  "review-full-case.html": {
+    "url": "https://relevancy.bger.ch/cgi-bin/JumpCGI?id=19.12.2006_4C-298/2006",
+    "accessed_at": "2026-10-19T13:00:54.744040+00:00",
+    "path": "sources/review-full-case.html",
+    "http_status": 200,
+    "final_url": "http://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F19-12-2006-4C-298-2006&lang=de&type=show_document",
+    "content_type": "text/html; charset=iso-8859-1",
+    "sha256": "c1a36bab44be9fb012f1a913bcbed47b53950c1a811f4397444eee258eb06a82",
+    "bytes": 42745,
+    "validated": "Full judgment: docket, reasons and dispositif present",
+    "accepted": true
+  },
+  "review-history-1994.html": {
+    "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122/19940101/de/html/fedlex-data-admin-ch-eli-cc-1993-3122_3122_3122-19940101-de-html-7.html",
+    "accessed_at": "2026-10-19T13:00:55.066208+00:00",
+    "path": "sources/review-history-1994.html",
+    "http_status": 200,
+    "final_url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122/19940101/de/html/fedlex-data-admin-ch-eli-cc-1993-3122_3122_3122-19940101-de-html-7.html",
+    "content_type": "text/html;charset=UTF-8",
+    "sha256": "39d0c4d52bf6c1140a7d5b1848e1a625375891aecc22869089e1361f1fd8b3be",
+    "bytes": 77151,
+    "error": "Rejected: HTTP 200 application HTML; no lawcontent and no statutory article nodes",
+    "accepted": false
+  },
+  "review-history-2007.html": {
+    "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122/20070701/de/html/fedlex-data-admin-ch-eli-cc-1993-3122_3122_3122-20070701-de-html-7.html",
+    "accessed_at": "2026-10-19T13:00:55.540905+00:00",
+    "path": "sources/review-history-2007.html",
+    "http_status": 200,
+    "final_url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122/20070701/de/html/fedlex-data-admin-ch-eli-cc-1993-3122_3122_3122-20070701-de-html-7.html",
+    "content_type": "text/html;charset=UTF-8",
+    "sha256": "39d0c4d52bf6c1140a7d5b1848e1a625375891aecc22869089e1361f1fd8b3be",
+    "bytes": 77151,
+    "error": "Rejected: HTTP 200 application HTML; no lawcontent and no statutory article nodes",
+    "accepted": false
+  },
+  "review-prsg-metadata.json": {
+    "url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+DISTINCT+%3Fs+%3Fp+%3Fo+WHERE+%7B+VALUES+%3Fs+%7B+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Foc%2F2010%2F347%3E+%7D+%3Fs+%3Fp+%3Fo+%7D&format=application%2Fsparql-results%2Bjson",
+    "accessed_at": "2026-10-19T13:00:55.575115+00:00",
+    "path": "sources/review-prsg-metadata.json",
+    "http_status": 200,
+    "final_url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+DISTINCT+%3Fs+%3Fp+%3Fo+WHERE+%7B+VALUES+%3Fs+%7B+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Foc%2F2010%2F347%3E+%7D+%3Fs+%3Fp+%3Fo+%7D&format=application%2Fsparql-results%2Bjson",
+    "content_type": "application/sparql-results+json",
+    "sha256": "c1955826b4a91483204228c9eb8e87df119f5330854f57108742d0199e29d515",
+    "bytes": 7188,
+    "validated": "SPARQL JSON results and bindings",
+    "accepted": true
+  }
+}

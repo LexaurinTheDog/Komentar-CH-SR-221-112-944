@@ -45,5 +45,19 @@
   },
   "limitations": [
     "Keine flächendeckende Prüfung sämtlicher Vollzugsverordnungen und externer Verweisungsnormen."
-  ]
+  ],
+  "second_pass": {
+    "checked_at": "2026-10-19T13:00:54.743510+00:00",
+    "evidence": "review-fetch-verification.json",
+    "raw_response_identical": true,
+    "consolidation_dates": [
+      "1994-01-01",
+      "2007-07-01",
+      "2010-07-01"
+    ],
+    "selected_consolidation": "2010-07-01",
+    "newer_effective_version_found": false,
+    "editorial_note_discrepancy": "Art. 3 note 5 names 12 June 2010; AS 2010 2573 gives 12 June 2009. Original note preserved and discrepancy explained in commentary.",
+    "publication_evidence": "review-prsg-as2010.pdf"
+  }
 }

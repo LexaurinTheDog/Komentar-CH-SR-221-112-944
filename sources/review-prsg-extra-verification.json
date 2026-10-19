@@ -1,0 +1,9 @@
+[
+  {
+    "url": "https://fedlex.data.admin.ch/sparqlendpoint?query=SELECT+%3Fs+%3Fp+%3Fo+WHERE+%7B+VALUES+%3Fs+%7B+%3Chttps%3A%2F%2Ffedlex.data.admin.ch%2Feli%2Foc%2F2010%2F347%2Fde%3E+%7D+%3Fs+%3Fp+%3Fo+%7D&format=application%2Fsparql-results%2Bjson",
+    "http_status": 200,
+    "accessed_at": "2026-10-19T13:01:16.793713+00:00",
+    "sha256": "fbd63634d89c86f102feec2b0ddde8447d7255c390e94bdb33c99955d73dd3fd",
+    "path": "sources/review-prsg-expression.json"
+  }
+]
