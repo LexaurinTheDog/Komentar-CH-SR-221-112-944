@@ -1,0 +1,24 @@
+{
+  "url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122/20100701/de/html/fedlex-data-admin-ch-eli-cc-1993-3122_3122_3122-20100701-de-html-7.html",
+  "checked_at": "2026-10-19T12:39:59.183775+00:00",
+  "status": 200,
+  "sha256": "505b8ea4db6e40dbe3c327e13f645470c68c13a0328803c30d46618dbfbfb22d",
+  "headers": {
+    "X-Frame-Options": "sameorigin",
+    "Content-Security-Policy": "default-src 'self'; img-src 'self' data:; frame-src 'self' blob: data: https://www.amtsdruckschriften.bar.admin.ch/ https://www.youtube.com/; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://webstats.ch.ch/; style-src 'self' 'unsafe-inline'; connect-src 'self' https://www.amtsdruckschriften.bar.admin.ch/ https://fedlex.data.admin.ch https://webstats.ch.ch/ data:; font-src 'self' https://fonts.gstatic.com/",
+    "Strict-Transport-Security": "max-age=15552000",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Content-Type-Options": "nosniff",
+    "Vary": "Origin",
+    "Last-Modified": "Wed, 22 Jan 2025 21:37:59 GMT",
+    "Cache-Control": "max-age=316224000",
+    "Accept-Ranges": "bytes",
+    "X-Robots-Tag": "noindex, nofollow",
+    "ETag": "\"0dbbeb851cd4e699d46353a4a1463f4a3\"",
+    "Content-Type": "text/html",
+    "Content-Length": "13428",
+    "Date": "Mon, 19 Oct 2026 12:39:59 GMT",
+    "Connection": "close",
+    "Set-Cookie": "BIT-PersistPP=881a4bf5c6ea3c81eeddb3e59e0fd66a;max-age=86400;Path=/;Secure;HttpOnly"
+  }
+}

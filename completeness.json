@@ -1,0 +1,86 @@
+{
+  "ok": true,
+  "errors": [],
+  "total_units": 14,
+  "completed_units": 14,
+  "raw_body_checks": [
+    {
+      "id": "a1",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a2",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a3",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a4",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a5",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a6",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a7",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a8",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a9",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a10",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a11",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a12",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a13",
+      "matches_raw_body": true
+    },
+    {
+      "id": "a14",
+      "matches_raw_body": true
+    }
+  ],
+  "all_raw_bodies_match": true,
+  "coverage_verified": true,
+  "all_official_footnotes_archived": true,
+  "official_footnote_count": 9,
+  "broken_local_links": [],
+  "duplicate_commentary_ids": [],
+  "commentary_chars": {
+    "a1": 1666,
+    "a2": 1670,
+    "a3": 1422,
+    "a4": 1782,
+    "a5": 1965,
+    "a6": 1289,
+    "a7": 1418,
+    "a8": 1389,
+    "a9": 1438,
+    "a10": 1388,
+    "a11": 1435,
+    "a12": 569,
+    "a13": 1254,
+    "a14": 1038
+  }
+}

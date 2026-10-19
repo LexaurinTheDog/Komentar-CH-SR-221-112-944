@@ -1,0 +1,26 @@
+{
+  "source_url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122/20100701/de/html/fedlex-data-admin-ch-eli-cc-1993-3122_3122_3122-20100701-de-html-7.html",
+  "checked_at": "2026-10-19T12:39:59.183775+00:00",
+  "selected_consolidation": "2010-07-01",
+  "files": {
+    "canonical.md": "8deb5fb47b01b9846d8be08f073c5a1c8662d357ca61ac55129e719af082f5e2",
+    "case-verification.json": "014d63b780e5b8b90ccd2b8a623d86937df1dd5abd3a4193cfb53b7c8fbaf028",
+    "case.html": "54a23bdff9506c14cda9364dd258e6a9317c762a1a3fa65599dfe788ea20cd93",
+    "case.txt": "c011afb77066e364aa0dec1382ce5a9d195a3949f13236000f8247b0cd645d93",
+    "change-map.json": "37629038b9d48353b5115815d252e55759a8e8bf1299be70098beafb0e0cbbc6",
+    "initial-verification.json": "c1129c4c0285d5ee2d1f08d5bea8aef56c33b9b28d901c78c0165f35c6ab8cdd",
+    "intake-original.md": "7fc73cbdc763c32c297b9f50f868909cc1dbf0c038db7d62ddc42585bdd13573",
+    "official-notes.md": "7246cc7a99cdc9fdbbcac20e201302035604251c3c6083d443504ea0ae3fd961",
+    "official.html": "505b8ea4db6e40dbe3c327e13f645470c68c13a0328803c30d46618dbfbfb22d",
+    "rejected-empty-case-verification.json": "624474bfdaf363f940bd6ff91dc0434f37bdbbcacc708f02a77ddf24bee5c1cb",
+    "rejected-empty-case.html": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+    "rejected-nonmetadata-response.html": "67ef6948509ab1827f885d4e4890d72fdd864e8d0e7ea1c41de2deffdd6dc8b6",
+    "search.json": "1d485338acb0b7190ebbe60c4208379cd7de57f81b850f3fe2ba43780f99c8bf",
+    "sparql-response.json": "008f8ec00eae8ddff93e9f4c9616d25576d91e2ce8135c9da1a8531b4ce0de3f",
+    "verification.json": "5c7bf472df5dce07a95cf3167018f46ff1f33e828b5437044dffe3bf156be66e",
+    "version-details-query.json": "2dbac26ae52f35b7ee8960961a15d134d2f2d4a3955577683802d89325914023",
+    "version-details.json": "f5b59a5d1f35ab138e7cb3aa43155050dc46999c958881031a411cfd708fd03c",
+    "versions-query.json": "92aa05560ff1723c771ba47a70df672c164d947216e43cc1108de97121d019c7",
+    "versions.json": "8e00cd45545da231905287bc712dfb84cc7869426db1868b4d9432a378d527f5"
+  }
+}

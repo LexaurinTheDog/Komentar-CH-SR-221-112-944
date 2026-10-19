@@ -1,0 +1,12 @@
+{
+  "original_intake": "/Volumes/LaCie/law-intake/eu/ch/sr/de/221.112.944__cc-1993-3122_3122_3122.md",
+  "original_intake_copy": "intake-original.md",
+  "original_sha256": "7fc73cbdc763c32c297b9f50f868909cc1dbf0c038db7d62ddc42585bdd13573",
+  "original_consolidation": "2010-07-01",
+  "official_selected_consolidation": "2010-07-01",
+  "more_recent_effective_consolidation_found": false,
+  "changes": [
+    "Kanonischer Text direkt aus amtlichem HTML mechanisch extrahiert; Absatznummern und Fussnotenmarker als Markdown formatiert."
+  ],
+  "historical_or_future_text_concatenated": false
+}
